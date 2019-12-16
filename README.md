@@ -1,2 +1,7 @@
 # hello-world
-This project will teach me how to be good at github
+
+Hi Humans!
+
+My name is Alfonzoid from sector 1073 in the Stiplark star system. My friends call me Jim. Don't call me Jam.
+
+- Your friend Jam.
